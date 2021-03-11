@@ -1,6 +1,6 @@
-<mxfile modified="2021-03-11T10:59:38.500Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="cNxbS6MVpGFnAbcUco4i" version="14.4.7" type="github">
+<mxfile modified="2021-03-11T11:23:01.900Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="0ZLK0PAd8Ls00HIJr6Qo" version="14.4.6" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
-    <mxGraphModel dx="1422" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1673" dy="865" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,7 +101,7 @@
         <mxCell id="aBZCno5w9hMfPToRCG13-183" value="Advanced users" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="97YVQ13feA54Ti60q4Zs-8" vertex="1">
           <mxGeometry x="320.0016369529983" y="22" width="122.52836304700162" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="u5VeJTDDOckwFqEWBu4E-1" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&lt;font color=&quot;#3333FF&quot;&gt;&lt;i style=&quot;font-size: 12px&quot;&gt;&amp;lt;Specific parts&amp;gt;&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" vertex="1" parent="97YVQ13feA54Ti60q4Zs-8">
+        <mxCell id="u5VeJTDDOckwFqEWBu4E-1" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 14px&quot;&gt;&lt;font color=&quot;#3333FF&quot;&gt;&lt;i style=&quot;font-size: 12px&quot;&gt;&amp;lt;Specific parts&amp;gt;&lt;/i&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" parent="97YVQ13feA54Ti60q4Zs-8" vertex="1">
           <mxGeometry x="167.25" y="3.5" width="95.97" height="20" as="geometry" />
         </mxCell>
         <mxCell id="aBZCno5w9hMfPToRCG13-1" value="&lt;div&gt;Authentication &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;amp; authorizations&lt;/div&gt;" style="html=1;dropTarget=0;fontSize=14;fontStyle=1" parent="1" vertex="1">
